@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sabaresh%20Iyer&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=3rd%20Year%20IT%20Student%20%7C%20Aspiring%20SWE%20%26%20AI%2FML%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+
 
 <a href="https://github.com/Sabaresh-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Learning+to+Build+Scalable+Systems+%E2%9A%A1;Exploring+AI%2FML+Through+Real+Projects+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Enthusiast;Turning+Coursework+Into+Production+Code" alt="Typing SVG" />
