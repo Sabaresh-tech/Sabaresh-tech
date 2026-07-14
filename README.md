@@ -126,44 +126,6 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 
 ---
 
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐ | CNNs, RNNs, Transformers — coursework + project-based implementation in PyTorch/TensorFlow |
-| **NLP** | ⭐⭐⭐ | Text classification, embeddings, transformer fine-tuning, HuggingFace ecosystem |
-| **LLMs & GenAI** | ⭐⭐⭐⭐ | Prompt engineering, RAG pipelines, LangChain, vector databases, agentic workflows |
-| **Computer Vision** | ⭐⭐⭐ | Image classification, object detection, OpenCV, OCR pipelines |
-| **MLOps** | ⭐⭐ | Learning model deployment, versioning, and monitoring practices |
-| **Data Engineering** | ⭐⭐⭐ | ETL pipelines, data preprocessing, Pandas, NumPy |
-
-</div>
-
-<br/>
-
----
-
-## 💼 Internships & Experience
-
-### Software Engineering Intern — Company Name
-**Month Year – Month Year**
-
-Contributed to backend development and internal tooling as part of a fast-paced engineering team during a summer internship.
-
-- Developed internal automation tools reducing manual QA effort by 30%
-- Built RESTful microservices consumed by the core application
-- Wrote unit and integration tests improving code coverage to 85%
-- Collaborated with senior engineers on code reviews and sprint planning
-
-`JavaScript` `Express` `MongoDB` `Git` `Agile`
-
-<br/>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -199,8 +161,7 @@ Contributed to backend development and internal tooling as part of a fast-paced 
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaresh-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=c9d1d9" />
-
+![Metrics](https://raw.githubusercontent.com/Sabaresh-tech/Sabaresh-tech/main/metrics.svg)
 </div>
 
 <br/>
