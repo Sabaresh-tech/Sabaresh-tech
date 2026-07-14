@@ -152,7 +152,7 @@ A full-stack analytics platform providing real-time data visualization and monit
 | **Performance** | Real-time updates with <100ms latency |
 | **Security** | OAuth2 authentication, encrypted data at rest and in transit |
 | **Impact** | Enabled data-driven decisions across 3 internal teams |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-three) |
+| **Repository** | [View Repository](https://github.com/Sabaresh-tech/project-three) |
 
 Built a real-time streaming data pipeline with WebSocket-based delivery, optimized frontend rendering for high-frequency updates, and containerized the entire stack for seamless horizontal scaling.
 
@@ -245,12 +245,12 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=8A2BE2" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=B983FF&currStreakLabel=B983FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sabaresh-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=8A2BE2" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaresh-tech&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=B983FF&currStreakLabel=B983FF" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaresh-tech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&text_color=c9d1d9" />
 
 </div>
 
@@ -262,7 +262,7 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sabaresh-tech&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 </div>
 
