@@ -35,7 +35,6 @@
 
 ## 🧠 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
 ```yaml
 name: "Sabaresh Iyer"
