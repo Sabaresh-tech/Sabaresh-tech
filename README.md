@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sabaresh%20Iyer&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/Sabaresh-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%E2%9A%A1;Engineering+Intelligent+Products+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/sabaresh-iyer-0bb142303"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://linkedin.com/in/sabaresh-iyer-0bb142303"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="mailto:sabareshiyer0501@gmail.com"><img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/Sabaresh-tech"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
@@ -94,22 +94,6 @@ My work spans across **backend architecture**, **machine learning pipelines**, *
 <br/>
 
 ---
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch & TensorFlow model development |
-| **NLP** | ⭐⭐⭐⭐ | Text classification, embeddings, transformer fine-tuning, HuggingFace ecosystem |
-| **LLMs & GenAI** | ⭐⭐⭐⭐⭐ | Prompt engineering, RAG pipelines, LangChain, vector databases, agentic workflows |
-| **Computer Vision** | ⭐⭐⭐ | Image classification, object detection, OpenCV, OCR pipelines |
-| **MLOps** | ⭐⭐⭐⭐ | Model deployment, versioning, monitoring, CI/CD for ML pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, data preprocessing, Pandas, NumPy, Spark basics |
-
-</div>
 
 <br/>
 
@@ -290,7 +274,7 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0d1117&color=B983FF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sabaresh-tech&theme=react-dark&bg_color=0d1117&color=B983FF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true" />
 
 </div>
 
