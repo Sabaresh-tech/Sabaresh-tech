@@ -161,7 +161,8 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 
 <br/>
 
-![Metrics](https://raw.githubusercontent.com/Sabaresh-tech/Sabaresh-tech/main/metrics.svg)
+![Stars](https://img.shields.io/github/stars/Sabaresh-tech?style=for-the-badge&color=8A2BE2)
+![Repos](https://img.shields.io/badge/dynamic/json?...)
 </div>
 
 <br/>
