@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sabaresh-tech">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%E2%9A%A1;Engineering+Intelligent+Products+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
 </a>
 
@@ -15,15 +15,15 @@
 <br/><br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sabaresh-iyer-0bb142303"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:sabareshiyer0501@gmail.com"><img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/Sabaresh-tech"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&logo=github" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Sabaresh-tech&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Sabaresh-tech?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&logo=github" />
+<img src="https://img.shields.io/github/stars/Sabaresh-tech?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e&logo=github" />
 
 </div>
 
@@ -178,38 +178,6 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 ---
 
-## 💼 Experience
-
-### Software Engineer — Company Name
-**Jan 2024 – Present**
-
-Working as a core engineer on backend and AI-integrated systems, contributing to product architecture decisions and mentoring junior engineers.
-
-- Designed and implemented scalable REST/GraphQL APIs serving production traffic
-- Built and deployed machine learning models integrated into core product features
-- Optimized database queries and system architecture, reducing latency by 35%
-- Collaborated cross-functionally with product and design teams on feature delivery
-- Established CI/CD pipelines improving deployment frequency and reliability
-
-`Node.js` `Python` `AWS` `PostgreSQL` `Docker` `System Design`
-
-<br/>
-
-### Software Engineering Intern — Company Name
-**May 2023 – Aug 2023**
-
-Contributed to backend development and internal tooling for a fast-paced engineering team.
-
-- Developed internal automation tools reducing manual QA effort by 30%
-- Built RESTful microservices consumed by the core application
-- Wrote unit and integration tests improving code coverage to 85%
-
-`JavaScript` `Express` `MongoDB` `Git` `Agile`
-
-<br/>
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -267,7 +235,7 @@ Contributed to backend development and internal tooling for a fast-paced enginee
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/Tech-SB/">
 <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
 </a>
 
@@ -334,7 +302,7 @@ Contributed to backend development and internal tooling for a fast-paced enginee
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sabaresh-tech/Sabaresh-tech/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -372,9 +340,9 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="mailto:sabareshiyer0501@gmail.com"><img src="https://img.shields.io/badge/Gmail-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://linkedin.com/in/sabaresh-iyer-0bb142303"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/Sabaresh-tech"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
 
 </div>
