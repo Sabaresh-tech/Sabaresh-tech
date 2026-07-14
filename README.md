@@ -286,7 +286,7 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sabaresh-tech/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sabaresh-tech/Sabaresh-tech/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
