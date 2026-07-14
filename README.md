@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sabaresh%20Iyer&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sabaresh%20Iyer&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=3rd%20Year%20IT%20Student%20%7C%20Aspiring%20SWE%20%26%20AI%2FML%20Engineer&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/Sabaresh-tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%E2%9A%A1;Engineering+Intelligent+Products+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Engineer;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Learning+to+Build+Scalable+Systems+%E2%9A%A1;Exploring+AI%2FML+Through+Real+Projects+%F0%9F%A4%96;Full+Stack+%2B+AI%2FML+Enthusiast;Turning+Coursework+Into+Production+Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/3rd%20Year%20Student-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/CGPA-9.49%2F10-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/Location-India-9D4EDD?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e" />
 
@@ -36,28 +37,29 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
 
 ```yaml
-name: "Your Name"
-role: "Software Engineer & AI/ML Engineer"
+name: "Sabaresh Iyer"
+role: "3rd Year IT Undergrad | Aspiring Software & AI/ML Engineer"
 focus:
-  - Building scalable, production-grade backend systems
-  - Designing intelligent AI/ML powered products
-  - Crafting performant, accessible full-stack applications
-  - Engineering with a product-first, business-impact mindset
-philosophy: "Ship fast. Ship clean. Ship intelligent."
+  - Learning to build scalable, production-grade backend systems
+  - Exploring AI/ML through hands-on projects and research
+  - Sharpening full-stack development skills via real builds
+  - Growing a product-first, impact-driven engineering mindset
+philosophy: "Learn in public. Build relentlessly. Ship anyway."
 ```
 
-I'm a **Software Engineer** with a strong foundation in **Computer Science**, specializing in building **scalable distributed systems**, **AI/ML powered products**, and **full-stack web applications**. I approach engineering with a **product mindset** — writing code that is not just functional, but performant, secure, and built to scale in production environments.
+I'm **Sabaresh Iyer**, a **3rd-year Information Technology undergraduate** passionate about **software engineering**, **AI/ML**, and **full-stack development**. I spend my time outside the classroom building real projects, contributing to open source, and competitively solving problems — turning theoretical CS concepts into working, deployable systems.
 
-My work spans across **backend architecture**, **machine learning pipelines**, **cloud-native deployments**, and **modern frontend engineering**. I care deeply about clean architecture, system design, and delivering measurable business impact through technology.
+I'm currently deepening my skills in **backend architecture**, **machine learning & GenAI pipelines**, and **modern frontend engineering**, while actively preparing for **SDE and AI/ML internships**. I care about writing clean, scalable code and building products that solve real problems — not just projects that sit in a repo.
 
 ### 🎯 Open To
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineering%20Roles-6A0DAD?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-8A2BE2?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-9D4EDD?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-7B2CBF?style=flat-square&labelColor=1a1a2e" />
+<a href="https://en.wikipedia.org/wiki/Software_engineering"><img src="https://img.shields.io/badge/SDE%20Internships-6A0DAD?style=flat-square&labelColor=1a1a2e" /></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning"><img src="https://img.shields.io/badge/AI%2FML%20Internships-8A2BE2?style=flat-square&labelColor=1a1a2e" /></a>
+<a href="https://en.wikipedia.org/wiki/Full-stack_developer"><img src="https://img.shields.io/badge/Full%20Stack%20Development-9D4EDD?style=flat-square&labelColor=1a1a2e" /></a>
+<a href="https://en.wikipedia.org/wiki/Open-source_software"><img src="https://img.shields.io/badge/Open%20Source%20Collaboration-7B2CBF?style=flat-square&labelColor=1a1a2e" /></a>
+<a href="https://en.wikipedia.org/wiki/Hackathon"><img src="https://img.shields.io/badge/Hackathons-7B2CBF?style=flat-square&labelColor=1a1a2e" /></a>
 
 </div>
 
@@ -70,110 +72,73 @@ My work spans across **backend architecture**, **machine learning pipelines**, *
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go&theme=dark" />
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux&theme=dark" />
+<a href="https://en.wikipedia.org/wiki/React_(software)"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+<a href="https://en.wikipedia.org/wiki/Next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Vue.js"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Tailwind_CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,postgres,mongodb,redis,mysql&theme=dark" />
+<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Spring_Framework"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Redis"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,github,linux,nginx,grafana&theme=dark" />
+<a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Docker_(software)"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Kubernetes"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href="https://docs.github.com/en/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="https://en.wikipedia.org/wiki/Nginx"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Grafana"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
 </p>
 
 <br/>
 
 ---
 
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🔹 Project One — Intelligent Enterprise Platform</b></summary>
-<br/>
-
-A scalable, AI-augmented enterprise platform designed to automate core business workflows using a microservices architecture and real-time data processing pipelines.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | React, Node.js, Express, PostgreSQL, Redis, Docker |
-| **Scale** | 50K+ monthly active requests, horizontally scalable microservices |
-| **Performance** | Sub-200ms API response time at p95, optimized query indexing |
-| **Security** | JWT auth, RBAC, rate limiting, OWASP-compliant input validation |
-| **Impact** | Reduced manual workflow processing time by 65% |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-one) |
-
-This project involved designing a modular microservices architecture from the ground up, implementing event-driven communication between services, and building a resilient caching layer to handle high-throughput traffic while maintaining data consistency across distributed nodes.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Two — RAG-Powered AI Knowledge Assistant</b></summary>
-<br/>
-
-An AI-powered assistant leveraging Retrieval-Augmented Generation to answer domain-specific queries with high factual accuracy, built on top of a custom vector search pipeline.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, FastAPI, LangChain, Pinecone, OpenAI API, Next.js |
-| **Scale** | Indexed 100K+ documents with sub-second retrieval latency |
-| **Performance** | 92% answer relevance score on internal evaluation benchmark |
-| **Security** | API key vaulting, encrypted document storage, access-scoped queries |
-| **Impact** | Cut support ticket resolution time by 40% |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/project-two) |
-
-Engineered a full RAG pipeline including document chunking strategies, embedding generation, semantic re-ranking, and prompt orchestration to ensure grounded, low-hallucination responses at production scale.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Three — Real-Time Analytics Dashboard</b></summary>
-<br/>
-
-A full-stack analytics platform providing real-time data visualization and monitoring for distributed system metrics, built with a focus on performance and extensibility.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | Next.js, TypeScript, WebSockets, MongoDB, Docker, Kubernetes |
-| **Scale** | Handles 10K+ concurrent WebSocket connections |
-| **Performance** | Real-time updates with <100ms latency |
-| **Security** | OAuth2 authentication, encrypted data at rest and in transit |
-| **Impact** | Enabled data-driven decisions across 3 internal teams |
-| **Repository** | [View Repository](https://github.com/Sabaresh-tech/project-three) |
-
-Built a real-time streaming data pipeline with WebSocket-based delivery, optimized frontend rendering for high-frequency updates, and containerized the entire stack for seamless horizontal scaling.
-
-</details>
-
-<br/>
-
----
-
-## 🏆 Achievements
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🥇 **Smart India Hackathon Finalist** | Top 10 among 5000+ teams nationwide |
-| 🏅 **1st Place — University Hackathon** | Built an AI-powered accessibility solution |
-| 🎓 **Dean's List** | Recognized for academic excellence, 4 consecutive semesters |
-| 📝 **Published Research Paper** | Co-authored paper on ML applications, IEEE conference |
-| 🌟 **Open Source Contributor** | Merged PRs into projects with 1K+ GitHub stars |
-| 💡 **Google Solution Challenge Participant** | Built a scalable SDG-focused application |
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering, scikit-learn |
+| **Deep Learning** | ⭐⭐⭐ | CNNs, RNNs, Transformers — coursework + project-based implementation in PyTorch/TensorFlow |
+| **NLP** | ⭐⭐⭐ | Text classification, embeddings, transformer fine-tuning, HuggingFace ecosystem |
+| **LLMs & GenAI** | ⭐⭐⭐⭐ | Prompt engineering, RAG pipelines, LangChain, vector databases, agentic workflows |
+| **Computer Vision** | ⭐⭐⭐ | Image classification, object detection, OpenCV, OCR pipelines |
+| **MLOps** | ⭐⭐ | Learning model deployment, versioning, and monitoring practices |
+| **Data Engineering** | ⭐⭐⭐ | ETL pipelines, data preprocessing, Pandas, NumPy |
 
 </div>
 
@@ -181,35 +146,19 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 
 ---
 
-## 📜 Certifications
+## 💼 Internships & Experience
 
-### ☁️ AWS
+### Software Engineering Intern — Company Name
+**Month Year – Month Year**
 
-<p align="left">
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a2e" />
-</p>
+Contributed to backend development and internal tooling as part of a fast-paced engineering team during a summer internship.
 
-### 🔶 Oracle
+- Developed internal automation tools reducing manual QA effort by 30%
+- Built RESTful microservices consumed by the core application
+- Wrote unit and integration tests improving code coverage to 85%
+- Collaborated with senior engineers on code reviews and sprint planning
 
-<p align="left">
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Cloud%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20Programmer-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1a1a2e" />
-</p>
-
-### 📚 NPTEL
-
-<p align="left">
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
-</p>
-
-### 🌐 Cisco
-
-<p align="left">
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e" />
-</p>
+`JavaScript` `Express` `MongoDB` `Git` `Agile`
 
 <br/>
 
@@ -220,19 +169,19 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 <div align="center">
 
 <a href="https://leetcode.com/Tech-SB/">
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Institution%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
+<a href="https://geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-5%20Star%20Gold%20Badge-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" />
+<a href="https://hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-4%20Star%20Rated-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" />
+<a href="https://codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" />
 </a>
 
 </div>
@@ -289,32 +238,6 @@ Built a real-time streaming data pipeline with WebSocket-based delivery, optimiz
 <img src="https://raw.githubusercontent.com/Sabaresh-tech/Sabaresh-tech/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-<br/>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced distributed systems design
-  - LLM fine-tuning and agentic architectures
-  - Kubernetes at scale
-
-building:
-  - AI-powered developer tools
-  - Production-grade SaaS applications
-
-exploring:
-  - Vector databases and semantic search
-  - Edge computing and serverless architectures
-
-open_to:
-  - Full-time Software/AI Engineering roles
-  - Open source collaborations
-  - Technical writing & mentorship
-```
 
 <br/>
 
