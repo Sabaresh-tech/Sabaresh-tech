@@ -77,8 +77,6 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Go_(programming_language)"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 </p>
 
 ### Frontend
@@ -134,48 +132,12 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
 </a>
 
-<a href="https://geeksforgeeks.org/user/YOUR_GFG_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e" />
-</a>
-
-<a href="https://hackerrank.com/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e" />
-</a>
-
-<a href="https://codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" />
-</a>
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sabaresh-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=8A2BE2" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaresh-tech&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=B983FF&currStreakLabel=B983FF" />
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/Sabaresh-tech?style=for-the-badge&color=8A2BE2)
-![Repos](https://img.shields.io/badge/dynamic/json?...)
-</div>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sabaresh-tech&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
 
 <br/>
 
