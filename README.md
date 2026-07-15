@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/sabaresh-iyer-0bb142303"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="mailto:sabareshiyer0501@gmail.com"><img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
 <a href="https://github.com/Sabaresh-tech"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="https://leetcode.com/Tech-SB/"><img src="https://img.shields.io/badge/GitHub-240046?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://leetcode.com/Tech-SB/"><img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
