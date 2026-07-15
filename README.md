@@ -101,7 +101,6 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Redis"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
