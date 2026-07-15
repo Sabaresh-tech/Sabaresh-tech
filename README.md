@@ -123,22 +123,13 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 
 <br/>
 
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/Tech-SB/">
-<img src="https://img.shields.io/badge/LeetCode-Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" />
-</a>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sabaresh-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=8A2BE2" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabaresh-tech&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=B983FF&currStreakLabel=B983FF" />
+
 
 <br/>
 
