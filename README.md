@@ -99,7 +99,6 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Spring_Framework"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Redis"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
@@ -118,18 +117,7 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 <a href="https://en.wikipedia.org/wiki/Nginx"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Grafana"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
 </p>
-
-<br/>
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sabaresh-tech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B983FF&icon_color=9D4EDD&text_color=c9d1d9&ring_color=8A2BE2" />
-
 
 <br/>
 
