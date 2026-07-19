@@ -116,6 +116,7 @@ I'm currently deepening my skills in **backend architecture**, **machine learnin
 <a href="https://en.wikipedia.org/wiki/GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 <a href="https://en.wikipedia.org/wiki/Nginx"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  
 </p>
 
 <br/>
